@@ -6,7 +6,7 @@ div = Tk()
 div.geometry("1500x800+50+20")
 div.resizable(width=False, height=False)
 div.title('Text Capitalization ')
-div.iconbitmap(r'abc.ico')zz
+div.iconbitmap(r'abc.ico')
 AB=['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 ab=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 noab=[',','.',':',';','(',')']
